@@ -9,3 +9,7 @@
   01.27.2002 Hi Everett! Follow the white rabbit down the coding rabbit hole.....
 
 others scripts here are tests/tutorials
+
+  
+  check out:
+  https://github.com/botcrypto-io/awesome-crypto-trading-bots

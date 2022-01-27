@@ -1,4 +1,4 @@
-# INV-py
+# INV-py code repository
 
   12.14.2021 Stock_backtrader.py - code works for 2 different strategies
   

@@ -1,6 +1,6 @@
 # INV-py code repository
 
-  <MM.DD.YYYY> <script name> <notes>
+  MM.DD.YYYY script name notes
   --------------------------------------------------------------------
   12.14.2021 Stock_backtrader.py - code works for 2 different strategies
   

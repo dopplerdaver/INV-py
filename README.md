@@ -4,6 +4,6 @@
   
   01.14.2022 Google_trends_stock_predict.py - is the current project
   
-  Hi Everett!
+  01.27.2002 Hi Everett!
 
 others are tests/tutorials

@@ -6,7 +6,7 @@
   
   01.14.2022 Google_trends_stock_predict.py - is the current project
   
-  01.27.2002 Hi Everett! Follow the white rabbit down the coding rabbit hole.....
+  01.27.2020 Hi Everett! Follow the white rabbit down the coding rabbit hole.....
   
   check out:
   https://github.com/botcrypto-io/awesome-crypto-trading-bots

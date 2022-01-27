@@ -6,4 +6,4 @@
   
   01.27.2002 Hi Everett!
 
-others are tests/tutorials
+others scripts here are tests/tutorials
